@@ -6,8 +6,8 @@
 
 No.|Modul|Unduh
 -----|-----|-----
-1.|JavaScript Fundamental|*Belum tersedia*
-2.|Front-End Development|*Belum tersedia*
+1.|JavaScript Fundamental|*[bit.ly/jc05fundamental](https://github.com/LintangWisesa/Purwadhika-JC05-01_JSfundamental)*
+2.|Front-End Development|*[bit.ly/jc05frontend](https://github.com/LintangWisesa/Purwadhika-JC05-02_FrontEnd)*
 3.|Back-End Development|*Belum tersedia*
 4.|Mobile Development|*Belum tersedia*
 
