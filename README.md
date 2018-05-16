@@ -21,6 +21,8 @@ No.|Modul|Unduh
 - jQuery DOM & Animation
 - Bootstrap
 - React JS
+- PrimeReact
+- React Reveal
 - React & Axios (API)
 - React & Redux
 - Deploy to Github Pages
@@ -30,7 +32,6 @@ No.|Modul|Unduh
 - React & Firebase Database
 - React & Firebase Storage
 - React & Firebase Authentication
-- React Reveal
 
 #
 
