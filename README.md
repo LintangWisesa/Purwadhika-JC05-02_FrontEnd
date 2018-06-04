@@ -25,14 +25,14 @@ No.|Modul|Unduh
 - Material-UI
 - React Reveal
 - React & Axios (API)
-- React & Redux
-- Deploy to Github Pages
+- JSON-Server Fake API
 - Deploy to Heroku
 - Deploy to Netlify
 - Deploy to Firebase Hosting
 - React & Firebase Database
 - React & Firebase Storage
 - React & Firebase Authentication
+- React & Redux
 
 #
 
